@@ -1,0 +1,9 @@
+<?php
+return [
+    '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
+    'filename' => 'themes://clean-blog/clean-blog.yaml',
+    'modified' => 1487537328,
+    'data' => [
+        'enabled' => true
+    ]
+];
